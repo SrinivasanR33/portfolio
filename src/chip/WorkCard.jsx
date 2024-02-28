@@ -7,7 +7,6 @@ import { Link } from "react-router-dom";
 
 const WorkCard = () => {
   const reversedData = [...data].reverse();
-
   return (
     <>
       {reversedData.map((data) => {
