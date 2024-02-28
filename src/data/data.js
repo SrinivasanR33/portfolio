@@ -7,14 +7,15 @@ export const data = [
     title: "Image and Video Watching",
     desc: "",
     link: "https://nextjs-anime-kappa.vercel.app/",
-    git: "",
+    git: "https://github.com/SrinivasanR33/nextjs_anime",
   },
   {
     id: 2,
     img: 'https://img.hotimg.com/VAC.png',
     title: "Chat and Video App",
+    desc: "",
     link: "https://vacservice.onrender.com",
-    git: "",
+    git: "https://github.com/SrinivasanR33/VACFrentend",
   },
   // {
   //   id: 3,
