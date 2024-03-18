@@ -3,7 +3,7 @@
 export const data = [
   {
     id: 1,
-    img: 'https://img.hotimg.com/rss.png',
+    img: 'https://img.hotimg.com/next_anime_pick.png',
     title: "Image and Video Watching",
     desc: "",
     link: "https://nextjs-anime-kappa.vercel.app/",
