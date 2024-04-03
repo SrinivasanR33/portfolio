@@ -30,9 +30,10 @@ const Hero = () => {
               sequence={[
                 "Web Developer",
                 2000,
-                "Freelancer",
+                "React JS Developer",
                 2000,
-                "",
+                "Full Stack Developer",
+                2000,
               ]}
               speed={30}
               wrapper="h2"
