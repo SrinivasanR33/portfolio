@@ -74,6 +74,7 @@ const Resume = () => {
         </div>
 
         {/* Experience 3 */}
+        
         <div className="flex-1 flex items-stretch justify-center">
           <fieldset
             data-aos="zoom-in"
