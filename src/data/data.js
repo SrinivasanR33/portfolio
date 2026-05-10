@@ -1,9 +1,12 @@
 
 
+import nextAnimeImage from "../assets/nextanime.PNG?url";
+import vacImage from "../assets/VAC.PNG?url";
+
 export const data = [
   {
     id: 1,
-    img: 'https://img.hotimg.com/next_anime_pick.png',
+    img: nextAnimeImage,
     title: "Image and Video Watching",
     desc: "",
     link: "https://nextjs-anime-kappa.vercel.app/",
@@ -11,7 +14,7 @@ export const data = [
   },
   {
     id: 2,
-    img: 'https://img.hotimg.com/VAC.png',
+    img: vacImage,
     title: "Chat and Video App",
     desc: "",
     link: "https://vacservice.onrender.com",
