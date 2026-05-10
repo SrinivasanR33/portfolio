@@ -10,6 +10,7 @@ import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import resumePDF from "../../assets/Srinivasan Resume.pdf";
 import image1 from "../../assets/profilebg.png"
+import circleImage from "../../assets/Full Stack Developer2.png";
 import { links } from "../../data/data";
 
 
@@ -119,7 +120,7 @@ const Hero = () => {
               <div data-aos="zoom-in" data-aos-duration="1000" className=" relative cursor-pointer">
                 <img
                   className=" w-[135px] md:w-[90px] circle-text"
-                  src="https://ik.imagekit.io/imgkitt/tr:w-400/Full_Stack_Developer2.png?updatedAt=1683134009107"
+                  src={circleImage}
                   alt=""
                 />
                 <FaPlay
